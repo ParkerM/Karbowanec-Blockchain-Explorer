@@ -1,7 +1,8 @@
-var api = 'http://45.32.232.11:32348';
+var api = 'http://127.0.0.1:20421';
+var apiRouter = '/q/apirouter.php';
 var blockTargetInterval = 240;
 var coinUnits = 1000000000000;
-var symbol = 'KRB';
+var symbol = 'PGL';
 var refreshDelay = 30000;
 // pools stats by MainCoins
 var networkStat = {
